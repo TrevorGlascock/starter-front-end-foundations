@@ -2,6 +2,13 @@ body {
   padding: 10px;
 }
 
-input {
-  margin: 5px;
+textarea {
+  padding-bottom: 50px;
+}
+.field {
+  width: 90%;
+}
+
+.item {
+  margin-bottom: 15px;
 }
